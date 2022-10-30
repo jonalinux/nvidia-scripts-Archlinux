@@ -9,7 +9,7 @@ echo ""
 sudo pacman -S nvidia libva-mesa-driver nvidia-settings libva-vdpau-driver libva-utils
 
 sudo mkdir -p /etc/pacman.d/hooks
-sudo cp -r nvidia.hook /etc/pacman.d/
+sudo cp -r nvidia.hook /etc/pacman.d/hooks/
 sudo cp -r blacklist-nvidia-nouveau.conf /etc/modprobe.d/
 sudo cp -r 20-nvidia.conf /etc/X11/xorg.conf.d/
 sudo cp -r mkinitcpio.conf /etc
