@@ -19,3 +19,4 @@ based on https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_onl
 - add flags in usr/share/applications/microsoft-edge.desktop --enable-features=VaapiVideoEncoder 
 
 ![Screenshot from 2023-01-24 17-26-06](https://user-images.githubusercontent.com/103053714/214364580-d1203fcd-4c35-438e-9387-96f3b165cb90.png)
+![Screenshot from 2023-01-24 17-28-29](https://user-images.githubusercontent.com/103053714/214364982-ab48ab1a-02f7-4e7c-9148-5a1787aa8c35.png)
