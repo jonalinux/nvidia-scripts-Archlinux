@@ -15,6 +15,7 @@ based on https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_onl
 - ./nvidia.sh
 - reboot
 
-## hardware acceleration for edge 
-- add flags in usr/share/applications/edge.desktop --enable-features=VaapiVideoEncoder 
+## hardware acceleration for edge set VaapiVideoEncoder 
+- add flags in usr/share/applications/microsoft-edge.desktop --enable-features=VaapiVideoEncoder 
 
+![Screenshot from 2023-01-24 17-26-06](https://user-images.githubusercontent.com/103053714/214364580-d1203fcd-4c35-438e-9387-96f3b165cb90.png)
